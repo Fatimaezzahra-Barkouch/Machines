@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_main.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_splash.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/app_bar_main.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/content_main.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/etudiant_fragment.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_gallery.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_home.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_item.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_item_list.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine_list.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_list.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_machine.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_machine_list.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_slideshow.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/spinner_item.xml" value="0.12685185185185185" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/menu/activity_main_drawer.xml" value="0.18639455782312925" />
+        <entry key="..\:/IIR4-S4/PMobile/SQQQQQQQL/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/menu/main.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/content_main.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_item_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_machine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle_machine_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/safoi/Desktop/machine_sqllite/machine_sqllite/machine_sqllite/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/drawable/side_nav_bar.xml" value="0.1115" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine.xml" value="0.11302083333333333" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_machine_list.xml" value="0.11302083333333333" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_salle.xml" value="0.11302083333333333" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/layout/nav_header_main.xml" value="0.2151268115942029" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/machine_sqllite/machine_sqllite/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/content_main.xml" value="0.1526268115942029" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_machine.xml" value="0.22" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_machine_list.xml" value="0.25" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_salle.xml" value="0.67" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_salle_list.xml" value="0.1" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_salle_machine.xml" value="0.1" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_salle_machine_list.xml" value="0.22" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/layout/spinner_item.xml" value="0.1" />
+        <entry key="..\:/xampp2/htdocs/mobile/machine_sqllite/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
